@@ -1,0 +1,37 @@
+_repo: The-Cruise-of-the-Nonsuch-Buccaneer_21062
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williamson, John
+    gutenberg_agent_id: '9705'
+    url: http://www.gutenberg.org/2009/agents/9705
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: Though originally intended for young adult audiences, this tale of high-seas
+  adventure is a captivating read for readers of all ages. Young George St. Leger
+  has returned from a sea voyage, only to discover that his brother is in peril. Desperate,
+  he begs the owner of a newly built vessel, the Nonsuch Buccaneer, to undertake a
+  risky rescue mission. Will he pull off his daring plan?
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2007-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21062'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sea stories'
+title: The Cruise of the Nonsuch Buccaneer
+url: http://www.gutenberg.org/ebooks/21062
